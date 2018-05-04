@@ -1,0 +1,8 @@
+Goal: Find the effect of news/sentiment on daily stock prices for atleast 5 days.
+
+Steps:
+>Create a web scraping engine to identify keywords/sentiment for a stock
+>use the price data of the stock and the sentiment data generated to 
+  --find out patterns in how price reacts to news
+  --train a model with sentiment/news as factors and price variations as output and try predicting -- do backtesting as well!!
+  
